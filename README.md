@@ -53,7 +53,7 @@ The enclosure was designed in [Fusion360] to ensure a tight fit for the PCB and 
 *   [Specific Firmware Uploader if needed]
 
 ### Assembly Instructions
-1.  **Print the Case:** Use the STL files located in the `/mechanical` folder.
+1.  **Print the Case:** Use the STL files located in the `CAD` folder.
 2.  **Solder the PCB:** Solder the microcontroller and switches to the PCB.
 3.  **Firmware:** Plug in the device and copy the Firmware file to the root directory.
 4.  **Final Assembly:** Insert the PCB into the case and secure with M3 screws.
