@@ -1,8 +1,8 @@
-# [Otchiiz's Macropad V1]
+# Otchiiz's Macropad V1
 
 ![Overall Hackpad Prototype](images/overall_prototype.png)
 
-*An almost finished view of the [Macropad] in action.*
+*An almost finished view of the Macropad in action.*
 
 ## 📖 Description
 Briefly describe what this device is. Is it a macro pad? A custom game controller? A weather station? Explain **what** it does and **why** you built it. 
