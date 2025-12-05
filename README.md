@@ -50,7 +50,7 @@ The enclosure was designed in Fusion360 to ensure a tight fit for the PCB and co
 
 ### Prerequisites
 *   Soldering Iron & Solder
-*   [Specific Firmware Uploader if needed]
+*   Specific Firmware Uploader (if needed)
 
 ### Assembly Instructions
 1.  **Print the Case:** Use the STL files located in the `CAD` folder.
