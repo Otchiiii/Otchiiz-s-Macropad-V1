@@ -2,18 +2,18 @@
 
 ![Overall Hackpad Prototype](images/overall_prototype.png)
 
-*An almost finished view of the Macropad in action.*
+*An almost finished view of the Macropad.*
 
 ## 📖 Description
-Briefly describe what this device is. Is it a macro pad? A custom game controller? A weather station? Explain **what** it does and **why** you built it. 
+Very simple and basic 9 keys macropad.
 
-*   **Firmware:** [QMK CONFIGURATOR | QMK FIRMWARE]
+*   **Firmware:** QMK CONFIGURATOR | QMK FIRMWARE
 
 ---
 
 ## ⚡ Electronics Design
 
-This project utilizes a custom PCB designed in [KiCad].
+This project utilizes a custom PCB designed in KiCad.
 
 ### Schematic
 ![Schematic Diagram](images/schematic.png)
@@ -25,7 +25,7 @@ This project utilizes a custom PCB designed in [KiCad].
 
 ## ⚙️ Mechanical Design (The Case)
 
-The enclosure was designed in [Fusion360] to ensure a tight fit for the PCB and comfortable ergonomics.
+The enclosure was designed in Fusion360 to ensure a tight fit for the PCB and comfortable ergonomics.
 
 ### Case Assembly
 ![Case Assembly View](images/case_assembly.png)
